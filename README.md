@@ -4,6 +4,12 @@ A small, animated React/Vite website showcasing a presentation agency UI with sc
 
 (Short Hindi note) — Is repo ke liye ye README hai: ek animated website jo React + Vite + Tailwind-like utilities, Framer Motion aur Locomotive Scroll use karti hai.
 
+## Preview
+
+![Ochi preview](https://ochi.design/wp-content/uploads/2022/05/Homepage-Photo-663x469.jpg)
+
+*Screenshot: landing / hero section (hotlinked). Replace with a local image by adding it to `public/` and updating this path.*
+
 ---
 
 ## Demo
