@@ -6,15 +6,22 @@ A small, animated React/Vite website showcasing a presentation agency UI with sc
 
 ## Preview
 
-![Ochi preview](https://ochi.design/wp-content/uploads/2022/05/Homepage-Photo-663x469.jpg)
+![Ochi preview](/preview.png)
 
-*Screenshot: landing / hero section (hotlinked). Replace with a local image by adding it to `public/` and updating this path.*
+*Screenshot: landing / hero section. To use a local image, add your screenshot file to the project root as `preview.png` (or place it in `public/preview.png` for Vite) — the README references `/preview.png` so the image will show on GitHub and when served locally.*
+
+If you want me to add the exact screenshot you uploaded here, please either:
+
+1. Upload the image file into the repository (recommended path: `public/preview.png`) and I'll update the README to reference it exactly, or
+2. Tell me to add the attached screenshot to the project and I'll add it for you (I will commit it to `public/preview.png`).
 
 ---
 
 ## Demo
 
 - This is a local development site. To preview, run the dev server (instructions below) and open the Vite URL (usually http://localhost:5173).
+
+- Live demo: https://ali-clone-ochi.netlify.app/
 
 ## Features
 
@@ -50,6 +57,7 @@ Open a PowerShell terminal in the project root and run:
 ```powershell
 # install dependencies
 npm install
+npm install framer-motion
 
 # start dev server
 npm run dev
